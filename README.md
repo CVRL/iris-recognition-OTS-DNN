@@ -1,5 +1,5 @@
 # iris-recognition-OTS-DNN
-Code and models for the ICB 2019 paper: Iris Recognition with Image Segmentation Employing Retrained Off-the-Shelf Deep Neural Networks
+Code and models for the ICB 2019 paper: Iris Recognition with Image Segmentation Employing Retrained Off-the-Shelf Deep Neural Networks. Pre-print available at: https://arxiv.org/abs/1901.01028
 
 ## Contents
 
