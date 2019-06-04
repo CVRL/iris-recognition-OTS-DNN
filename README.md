@@ -12,6 +12,8 @@ You will need to edit the scripts and programs below to point to the correct pat
 - augment.py: script used to augment the training data
 
 ### models
+The file models.tgz can be downloaded from [this release](https://github.com/CVRL/iris-recognition-OTS-DNN/releases).
+
 - dilated-cnn: trained frontend and context modules
 - DRN: trained dilated residual network
 - SegNet: trained SegNet
